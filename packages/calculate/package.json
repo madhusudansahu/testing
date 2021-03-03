@@ -11,5 +11,6 @@
   "dependencies": {
     "@mysm/addition": "^1.0.0",
     "substraction": "^1.0.1-alpha.0"
-  }
+  },
+  "gitHead": "f023b5450c55576173f95dc732f89dc17de7faad"
 }
