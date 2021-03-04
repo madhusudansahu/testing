@@ -1,0 +1,7 @@
+38 error Error: Command failed with exit code 128: git tag calculate@1.0.1 -m calculate@1.0.1
+38 error fatal: tag 'calculate@1.0.1' already exists
+38 error     at makeError (/Users/i320393/git/monorepo/node_modules/execa/lib/error.js:59:11)
+38 error     at handlePromise (/Users/i320393/git/monorepo/node_modules/execa/index.js:114:26)
+38 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+38 error     at async Promise.all (index 0)
+38 error     at async Promise.all (index 0)
