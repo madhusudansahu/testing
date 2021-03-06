@@ -1,11 +1,15 @@
 {
-  "name": "substraction",
-  "version": "1.0.1-alpha.0",
+  "name": "@mysm/substraction",
+  "version": "1.0.1-alpha.5",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "86d4e17f6d0b63ee3982295331ee0da3cf4b57f4"
 }
