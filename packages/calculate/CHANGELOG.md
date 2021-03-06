@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0-alpha.0](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.0.5-alpha.2...@mysm/calculate@1.2.0-alpha.0) (2021-03-06)
+
+
+### Features
+
+* test ([9865b75](https://github.com/madhusudansahu/testing/commit/9865b7527e89460de73c2a2e8e686f9c6c0cdb01))
+
+
+
+
+
 # [1.1.0](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.0.5-alpha.2...@mysm/calculate@1.1.0) (2021-03-06)
 
 
