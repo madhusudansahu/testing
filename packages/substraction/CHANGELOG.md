@@ -3,9 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0-alpha.6](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.2.0-alpha.4...@mysm/substraction@1.2.0-alpha.6) (2021-03-06)
+
+
+### Features
+
+* minor upgrage ([b913605](https://github.com/madhusudansahu/testing/commit/b9136050a60ec7207046f43c9745aa6afa705763))
+* minor upgrage ([c9c2ad8](https://github.com/madhusudansahu/testing/commit/c9c2ad8cd1a48cb1e45cad67b099fecc1cc5fd16))
+
+
+
+
+
 # [1.2.0-alpha.5](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.2.0-alpha.4...@mysm/substraction@1.2.0-alpha.5) (2021-03-06)
 
-**Note:** Version bump only for package @mysm/substraction
+
+### Features
+
+* minor upgrage ([c9c2ad8](https://github.com/madhusudansahu/testing/commit/c9c2ad8cd1a48cb1e45cad67b099fecc1cc5fd16))
 
 
 
