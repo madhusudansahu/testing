@@ -1,8 +1,8 @@
-58 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
-59 error Error: Command failed with exit code 128: git tag @mysm/calculate@1.2.0-alpha.7 -m @mysm/calculate@1.2.0-alpha.7
-59 error fatal: tag '@mysm/calculate@1.2.0-alpha.7' already exists
-59 error     at makeError (/Users/i320393/git/monorepo/node_modules/execa/lib/error.js:59:11)
-59 error     at handlePromise (/Users/i320393/git/monorepo/node_modules/execa/index.js:114:26)
-59 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-59 error     at async Promise.all (index 0)
-59 error     at async Promise.all (index 0)
+59 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+60 error Error: Command failed with exit code 128: git tag @mysm/calculate@1.2.0-alpha.9 -m @mysm/calculate@1.2.0-alpha.9
+60 error fatal: tag '@mysm/calculate@1.2.0-alpha.9' already exists
+60 error     at makeError (/Users/i320393/git/monorepo/node_modules/execa/lib/error.js:59:11)
+60 error     at handlePromise (/Users/i320393/git/monorepo/node_modules/execa/index.js:114:26)
+60 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+60 error     at async Promise.all (index 0)
+60 error     at async Promise.all (index 0)
