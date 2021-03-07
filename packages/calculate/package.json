@@ -1,6 +1,6 @@
 {
   "name": "@mysm/calculate",
-  "version": "1.2.0-alpha.8",
+  "version": "1.2.0-alpha.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@mysm/addition": "^1.0.0",
-    "@mysm/substraction": "^1.2.0-alpha.8"
+    "@mysm/substraction": "^1.2.0-alpha.9"
   },
   "publishConfig": {
     "access": "public"
