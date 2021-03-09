@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@mysm/addition": "^1.0.0",
-    "@mysm/substraction": "^1.3.0-alpha.0"
+
+    "@mysm/substraction": "^1.2.1-alpha.1"
   },
   "publishConfig": {
     "access": "public"
