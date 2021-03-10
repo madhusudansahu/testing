@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0-alpha.2](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.10.0-alpha.1...@mysm/substraction@1.10.0-alpha.2) (2021-03-10)
+
+
+### Features
+
+* testing ([181236c](https://github.com/madhusudansahu/testing/commit/181236c0f2b75644dd1af00035d3e60e5d53abf6))
+
+
+
+
+
 # [1.10.0-alpha.1](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.10.0-alpha.0...@mysm/substraction@1.10.0-alpha.1) (2021-03-10)
 
 
