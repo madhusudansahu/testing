@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.1-dev.0](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.9.1-alpha.0...@mysm/calculate@1.9.1-dev.0) (2021-03-10)
+
+**Note:** Version bump only for package @mysm/calculate
+
+
+
+
+
+## [1.9.1-alpha.0](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.9.0...@mysm/calculate@1.9.1-alpha.0) (2021-03-10)
+
+**Note:** Version bump only for package @mysm/calculate
+
+
+
+
+
 ## [1.8.4-alpha.2](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.8.4-alpha.1...@mysm/calculate@1.8.4-alpha.2) (2021-03-10)
 
 **Note:** Version bump only for package @mysm/calculate
