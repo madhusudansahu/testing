@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.17.0-dev.0](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.16.0-dev.0...@mysm/substraction@1.17.0-dev.0) (2021-03-10)
+
+
+### Features
+
+* add ([d2b25f2](https://github.com/madhusudansahu/testing/commit/d2b25f2bf8611b4459a1222d584ae1a142fb7793))
+* added new release feature ([97cf9a6](https://github.com/madhusudansahu/testing/commit/97cf9a6cfa3d46e961e1aa38148dbb2f17b887f2))
+* new feature added ([bd07ad2](https://github.com/madhusudansahu/testing/commit/bd07ad2073513f45ce7ceb1215a87382a2741063))
+
+
+
+
+
+# [1.17.0-dev.0](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.16.0-dev.0...@mysm/substraction@1.17.0-dev.0) (2021-03-10)
+
+
+### Features
+
+* add ([d2b25f2](https://github.com/madhusudansahu/testing/commit/d2b25f2bf8611b4459a1222d584ae1a142fb7793))
+* added new release feature ([97cf9a6](https://github.com/madhusudansahu/testing/commit/97cf9a6cfa3d46e961e1aa38148dbb2f17b887f2))
+* new feature added ([bd07ad2](https://github.com/madhusudansahu/testing/commit/bd07ad2073513f45ce7ceb1215a87382a2741063))
+
+
+
+
 # [1.16.0](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.16.0-dev.0...@mysm/substraction@1.16.0) (2021-03-10)
 
 
