@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.23.0-dev.1](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.23.0-dev.0...@mysm/calculate@1.23.0-dev.1) (2021-03-11)
+
+
+### Features
+
+* abcd ([bba57dc](https://github.com/madhusudansahu/testing/commit/bba57dcb9e8c1b619b46ae7fdb77b67bb1acd3a5))
+
+
+
+
+
 # [1.21.0](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.21.0-dev.0...@mysm/calculate@1.21.0) (2021-03-11)
 
 **Note:** Version bump only for package @mysm/calculate
