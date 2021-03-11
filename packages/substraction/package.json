@@ -1,6 +1,8 @@
 {
   "name": "@mysm/substraction",
-  "version": "1.22.0",
+
+  "version": "1.23.0-dev.0",
+
   "description": "",
   "main": "index.js",
   "scripts": {
