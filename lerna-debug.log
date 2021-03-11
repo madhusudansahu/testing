@@ -1,64 +1,8 @@
-0 silly argv {
-0 silly argv   _: [ 'version' ],
-0 silly argv   yes: true,
-0 silly argv   y: true,
-0 silly argv   lernaVersion: '4.0.0',
-0 silly argv   '$0': 'lerna',
-0 silly argv   bump: 'minor'
-0 silly argv }
-1 notice cli v4.0.0
-2 verbose rootPath /Users/i320393/git/monorepo
-3 info versioning independent
-4 silly isAnythingCommitted
-5 verbose isAnythingCommitted 1
-6 silly getCurrentBranch
-7 verbose currentBranch dev
-8 silly remoteBranchExists
-9 silly isBehindUpstream
-10 silly isBehindUpstream dev is behind origin/dev by 0 commit(s) and ahead by 0
-11 silly hasTags
-12 verbose hasTags true
-13 silly git-describe.sync "@mysm/calculate@1.10.1-dev.1-1-g704478a" => {"lastTagName":"@mysm/calculate@1.10.1-dev.1","lastVersion":"1.10.1-dev.1","refCount":"1","sha":"704478a","isDirty":false}
-14 info Looking for changed packages since @mysm/calculate@1.10.1-dev.1
-15 verbose updated @mysm/calculate
-16 verbose updated @mysm/substraction
-17 verbose git-describe undefined => "@mysm/calculate@1.10.1-dev.1-1-g704478a"
-18 silly git-describe parsed => {"lastTagName":"@mysm/calculate@1.10.1-dev.1","lastVersion":"1.10.1-dev.1","refCount":"1","sha":"704478a","isDirty":false}
-19 info auto-confirmed
-20 info execute Skipping releases
-21 silly lifecycle No script for "preversion" in "root", continuing
-22 silly lifecycle No script for "preversion" in "@mysm/substraction", continuing
-23 silly lifecycle No script for "version" in "@mysm/substraction", continuing
-24 silly lifecycle No script for "preversion" in "@mysm/calculate", continuing
-25 silly lifecycle No script for "version" in "@mysm/calculate", continuing
-26 silly lifecycle No script for "version" in "root", continuing
-27 silly gitAdd [
-27 silly gitAdd   'packages/substraction/package.json',
-27 silly gitAdd   'packages/calculate/package.json',
-27 silly gitAdd   'packages/calculate/package-lock.json'
-27 silly gitAdd ]
-28 silly gitCommit Publish
-28 silly gitCommit
-28 silly gitCommit  - @mysm/calculate@1.11.0
-28 silly gitCommit  - @mysm/substraction@1.12.0
-29 verbose git [
-29 verbose git   'commit',
-29 verbose git   '-F',
-29 verbose git   '/private/var/folders/rj/tp5_60ms6njbq8dqthx27n8r0000gn/T/f3b17b81-5ce8-46aa-bb0e-eeb4751ad927/lerna-commit.txt'
-29 verbose git ]
-30 silly gitTag @mysm/calculate@1.11.0
-31 verbose git [ 'tag', '@mysm/calculate@1.11.0', '-m', '@mysm/calculate@1.11.0' ]
-32 silly gitTag @mysm/substraction@1.12.0
-33 verbose git [
-33 verbose git   'tag',
-33 verbose git   '@mysm/substraction@1.12.0',
-33 verbose git   '-m',
-33 verbose git   '@mysm/substraction@1.12.0'
-33 verbose git ]
-34 error Error: Command failed with exit code 128: git tag @mysm/substraction@1.12.0 -m @mysm/substraction@1.12.0
-34 error fatal: tag '@mysm/substraction@1.12.0' already exists
-34 error     at makeError (/Users/i320393/git/monorepo/node_modules/execa/lib/error.js:59:11)
-34 error     at handlePromise (/Users/i320393/git/monorepo/node_modules/execa/index.js:114:26)
-34 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-34 error     at async Promise.all (index 1)
-34 error     at async Promise.all (index 0)
+53 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+54 error Error: Command failed with exit code 128: git tag @mysm/calculate@1.16.1 -m @mysm/calculate@1.16.1
+54 error fatal: tag '@mysm/calculate@1.16.1' already exists
+54 error     at makeError (/Users/i320393/git/monorepo/node_modules/execa/lib/error.js:59:11)
+54 error     at handlePromise (/Users/i320393/git/monorepo/node_modules/execa/index.js:114:26)
+54 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+54 error     at async Promise.all (index 0)
+54 error     at async Promise.all (index 0)
