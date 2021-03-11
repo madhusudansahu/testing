@@ -1,6 +1,6 @@
 {
   "name": "@mysm/substraction",
-  "version": "1.16.0",
+  "version": "1.17.0-dev.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "762ddd56a09e5256534b2fee7fa6adcd5f37bf3b"
+  "gitHead": "bf3d4fd118cd82ac3db1cd33d78d7541d87e1580"
 }
