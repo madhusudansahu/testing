@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@mysm/addition": "^1.0.0",
+
     "@mysm/substraction": "^1.23.0-dev.0"
   },
   "publishConfig": {
