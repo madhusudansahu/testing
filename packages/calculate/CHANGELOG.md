@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+
+# [1.19.0](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.17.1-dev.0...@mysm/calculate@1.19.0) (2021-03-11)
+
+
+### Features
+
+* package updated ([bc27f70](https://github.com/madhusudansahu/testing/commit/bc27f70bd614d34589a411768bc512719dcad74d))
+
+
+
+
+
 ## [1.17.1](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.17.1-dev.0...@mysm/calculate@1.17.1) (2021-03-11)
 
 **Note:** Version bump only for package @mysm/calculate
