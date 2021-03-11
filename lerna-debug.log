@@ -1,8 +1,95 @@
-53 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
-54 error Error: Command failed with exit code 128: git tag @mysm/calculate@1.16.1 -m @mysm/calculate@1.16.1
-54 error fatal: tag '@mysm/calculate@1.16.1' already exists
-54 error     at makeError (/Users/i320393/git/monorepo/node_modules/execa/lib/error.js:59:11)
-54 error     at handlePromise (/Users/i320393/git/monorepo/node_modules/execa/index.js:114:26)
-54 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-54 error     at async Promise.all (index 0)
-54 error     at async Promise.all (index 0)
+0 silly argv {
+0 silly argv   _: [ 'version' ],
+0 silly argv   'conventional-commits': true,
+0 silly argv   conventionalCommits: true,
+0 silly argv   'conventional-graduate': true,
+0 silly argv   conventionalGraduate: true,
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'lerna'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/i320393/git/monorepo
+3 info versioning independent
+4 silly isAnythingCommitted
+5 verbose isAnythingCommitted 1
+6 silly getCurrentBranch
+7 verbose currentBranch dev
+8 silly remoteBranchExists
+9 silly isBehindUpstream
+10 silly isBehindUpstream dev is behind origin/dev by 0 commit(s) and ahead by 0
+11 silly hasTags
+12 verbose hasTags true
+13 silly git-describe.sync "@mysm/calculate@1.17.1-dev.0-1-g858cb42" => {"lastTagName":"@mysm/calculate@1.17.1-dev.0","lastVersion":"1.17.1-dev.0","refCount":"1","sha":"858cb42","isDirty":false}
+14 warn conventional-graduate all packages
+15 info Graduating all prereleased packages
+16 info Looking for changed packages since @mysm/calculate@1.17.1-dev.0
+17 verbose updated @mysm/calculate
+18 verbose updated @mysm/substraction
+19 silly independent for @mysm/calculate at /Users/i320393/git/monorepo/packages/calculate
+20 verbose getChangelogConfig using preset "conventional-changelog-angular"
+21 silly npa Result {
+21 silly npa   type: 'tag',
+21 silly npa   registry: true,
+21 silly npa   where: undefined,
+21 silly npa   raw: 'conventional-changelog-angular',
+21 silly npa   name: 'conventional-changelog-angular',
+21 silly npa   escapedName: 'conventional-changelog-angular',
+21 silly npa   scope: undefined,
+21 silly npa   rawSpec: '',
+21 silly npa   saveSpec: null,
+21 silly npa   fetchSpec: 'latest',
+21 silly npa   gitRange: undefined,
+21 silly npa   gitCommittish: undefined,
+21 silly npa   hosted: undefined
+21 silly npa }
+22 verbose getChangelogConfig Attempting to resolve preset "conventional-changelog-angular"
+23 info getChangelogConfig Successfully resolved preset "conventional-changelog-angular"
+24 verbose independent increment 1.17.1-dev.0 by patch
+25 silly independent for @mysm/substraction at /Users/i320393/git/monorepo/packages/substraction
+26 verbose independent increment 1.19.0-dev.0 by patch
+27 info execute Skipping releases
+28 silly lifecycle No script for "preversion" in "root", continuing
+29 silly lifecycle No script for "preversion" in "@mysm/substraction", continuing
+30 silly lifecycle No script for "version" in "@mysm/substraction", continuing
+31 silly independent for @mysm/substraction at /Users/i320393/git/monorepo/packages/substraction
+32 silly independent writing new entry: "# [1.19.0](https://github.com/madhusudansahu/testing/compare/@mysm/substraction@1.19.0-dev.0...@mysm/substraction@1.19.0) (2021-03-11)\n\n**Note:** Version bump only for package @mysm/substraction\n\n\n\n"
+33 verbose independent wrote /Users/i320393/git/monorepo/packages/substraction/CHANGELOG.md
+34 silly lifecycle No script for "preversion" in "@mysm/calculate", continuing
+35 silly lifecycle No script for "version" in "@mysm/calculate", continuing
+36 silly independent for @mysm/calculate at /Users/i320393/git/monorepo/packages/calculate
+37 silly independent writing new entry: "## [1.17.1](https://github.com/madhusudansahu/testing/compare/@mysm/calculate@1.17.1-dev.0...@mysm/calculate@1.17.1) (2021-03-11)\n\n**Note:** Version bump only for package @mysm/calculate\n\n\n\n"
+38 verbose independent wrote /Users/i320393/git/monorepo/packages/calculate/CHANGELOG.md
+39 silly lifecycle No script for "version" in "root", continuing
+40 silly gitAdd [
+40 silly gitAdd   'packages/substraction/package.json',
+40 silly gitAdd   'packages/substraction/CHANGELOG.md',
+40 silly gitAdd   'packages/calculate/package.json',
+40 silly gitAdd   'packages/calculate/package-lock.json',
+40 silly gitAdd   'packages/calculate/CHANGELOG.md'
+40 silly gitAdd ]
+41 silly gitCommit Publish
+41 silly gitCommit
+41 silly gitCommit  - @mysm/calculate@1.17.1
+41 silly gitCommit  - @mysm/substraction@1.19.0
+42 verbose git [
+42 verbose git   'commit',
+42 verbose git   '-F',
+42 verbose git   '/private/var/folders/rj/tp5_60ms6njbq8dqthx27n8r0000gn/T/6f0e33c4-918c-4d2e-82b0-f1a59f1b3e36/lerna-commit.txt'
+42 verbose git ]
+43 silly gitTag @mysm/calculate@1.17.1
+44 verbose git [ 'tag', '@mysm/calculate@1.17.1', '-m', '@mysm/calculate@1.17.1' ]
+45 silly gitTag @mysm/substraction@1.19.0
+46 verbose git [
+46 verbose git   'tag',
+46 verbose git   '@mysm/substraction@1.19.0',
+46 verbose git   '-m',
+46 verbose git   '@mysm/substraction@1.19.0'
+46 verbose git ]
+47 error Error: Command failed with exit code 128: git tag @mysm/calculate@1.17.1 -m @mysm/calculate@1.17.1
+47 error fatal: tag '@mysm/calculate@1.17.1' already exists
+47 error     at makeError (/Users/i320393/git/monorepo/node_modules/execa/lib/error.js:59:11)
+47 error     at handlePromise (/Users/i320393/git/monorepo/node_modules/execa/index.js:114:26)
+47 error     at runMicrotasks (<anonymous>)
+47 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+47 error     at async Promise.all (index 0)
+47 error     at async Promise.all (index 0)
