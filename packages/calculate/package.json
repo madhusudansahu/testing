@@ -1,6 +1,6 @@
 {
   "name": "@mysm/calculate",
-  "version": "1.20.0-dev.0",
+  "version": "1.20.0-dev.0+ec19fcd",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "bf3d4fd118cd82ac3db1cd33d78d7541d87e1580"
+  "gitHead": "ec19fcdfd809d82641e79a66f077367f8443dfa5"
 }
